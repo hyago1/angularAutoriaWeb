@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": "5",
+      "name": "Camisa Estampada Floral",
+      "price": "69.90",
+      "description": "Camisa manga curta com estampa floral exclusiva",
+      "category": "Casual"
+    },
+    {
+      "id": "6",
+      "name": "Camisa Oxford Básica",
+      "price": "59.90",
+      "description": "Camisa em tecido oxford com bolso frontal",
+      "category": "Social"
+    },
+    {
+      "id": "7",
+      "name": "Camisa Polo Sport",
+      "price": "54.90",
+      "description": "Camisa polo em tecido tecnológico com proteção UV",
+      "category": "Esportiva"
+    },
+    {
+      "id": "8",
+      "name": "Camisa Flanela Xadrez",
+      "price": "84.90",
+      "description": "Camisa em flanela xadrez ideal para o inverno",
+      "category": "Casual"
+    },
+    {
+      "id": "9",
+      "name": "Camisa Social Executive",
+      "price": "149.90",
+      "description": "Camisa social premium com tecido não amassa",
+      "category": "Social"
+    },
+    {
+      "id": "10",
+      "name": "Camisa Polo Listrada",
+      "price": "64.90",
+      "description": "Camisa polo com listras horizontais em algodão peruano",
+      "category": "Casual"
+    },
+    {
+      "id": "11",
+      "name": "Camisa Chambray",
+      "price": "94.90",
+      "description": "Camisa em tecido chambray com lavagem especial",
+      "category": "Casual"
+    },
+    {
+      "id": "12",
+      "name": "Camisa Social Dobby",
+      "price": "109.90",
+      "description": "Camisa social em tecido dobby com textura sutil",
+      "category": "Social"
+    },
+    {
+      "id": "13",
+      "name": "Camisa Polo Performance",
+      "price": "74.90",
+      "description": "Camisa polo em tecido dry-fit com tecnologia anti-odor",
+      "category": "Esportiva"
+    },
+    {
+      "id": "14",
+      "name": "Camisa Linho Casual",
+      "price": "119.90",
+      "description": "Camisa em linho misto casual com manga longa",
+      "category": "Casual"
+    },
+    {
+      "id": "15",
+      "name": "Camisa Jeans Escura",
+      "price": "89.90",
+      "description": "Camisa jeans em lavagem escura com detalhes em cobre",
+      "category": "Jeans"
+    },
+    {
+      "id": "16",
+      "name": "Camisa Social Stretch",
+      "price": "99.90",
+      "description": "Camisa social com elastano para maior conforto",
+      "category": "Social"
+    },
+    {
+      "id": "17",
+      "name": "Camisa Polo Premium",
+      "price": "84.90",
+      "description": "Camisa polo em piquet premium com bordado especial",
+      "category": "Casual"
+    },
+    {
+      "id": "18",
+      "name": "Camisa Xadrez Flanela",
+      "price": "79.90",
+      "description": "Camisa xadrez em flanela com forro em fleece",
+      "category": "Casual"
+    },
+    {
+      "id": "19",
+      "name": "Camisa Social Cerimônia",
+      "price": "159.90",
+      "description": "Camisa social para ocasiões especiais em algodão 120's",
+      "category": "Social"
+    },
+    {
+      "id": "20",
+      "name": "Camisa Polo Tech",
+      "price": "69.90",
+      "description": "Camisa polo com tecnologia de controle térmico",
+      "category": "Esportiva"
+    },
+    {
+      "id": "1657",
+      "name": "Camisa Nike",
+      "price": "50,00",
+      "description": "Camisa nike ,,",
+      "category": "Esportiva"
+    }
+  ]
+}
